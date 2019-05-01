@@ -1,3 +1,1 @@
 # BillingCycleFrontend
-
-x1
